@@ -1,6 +1,6 @@
 # Sort-Simulator
 
-Sort Simulator is Structured Programming LAB Project of BUET CSE Level-1 term-2.
+Sort Simulator is Structured Programming Language LAB Project of BUET CSE Level-1 term-2.
 Bubble sort, Insertion sort and Quick sort algoritms are simulated for small input.
 Simulator is developed using C and iGraphics library in Visual Studio.
 
